@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visual Explainer"
+  short_description: "Clear technical diagrams and interactive explanations"
+  default_prompt: "Use $visual-explainer to explain this technical concept with the simplest useful visual, adding interaction or animation when it improves understanding."
